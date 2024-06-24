@@ -19,4 +19,4 @@ Este repositorio contiene una aplicación de comercio electrónico basada en Rea
 - Instalar dependencias: npm install o yarn install
 - Iniciar la aplicación: npm start o yarn start
 
-[Demo del proyecto]([https://react-y-tailwind-css-ecomerce.vercel.app])
+[Demo del proyecto](https://react-y-tailwind-css-ecomerce.vercel.app)
