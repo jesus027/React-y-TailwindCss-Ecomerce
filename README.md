@@ -1,12 +1,13 @@
 ## React y Tailwind CSS E-commerce
 
-Este repositorio contiene una aplicación de comercio electrónico basada en React, construida con Tailwind CSS para el diseño.
+El proyecto es una tienda en línea construida utilizando React.Js, Redux y Tailwind CSS. La página web tiene un diseño minimalista con un enfoque en la simplicidad y la facilidad de uso. El diseño es responsivo, lo que significa que se adapta a diferentes tamaños de pantalla y dispositivos.
 
 ### Características:
 
 - Diseño responsivo: La aplicación es completamente responsiva, gracias al enfoque de utilidad primero de Tailwind CSS.
-- Componentes de React: La aplicación está construida utilizando componentes de React, lo que la hace fácil de mantener y actualizar.
-- Funcionalidad de comercio electrónico: La aplicación incluye características básicas de comercio electrónico, como lista de productos, gestión de carrito y checkout.
+- Carrito de compras: El icono de carrito de compras en el encabezado muestra el número de artículos agregados al carrito. Hacer clic en él lleva al usuario a una página de resumen del carrito, donde pueden ver y editar el contenido del carrito.
+- Detalles de productos: Hacer clic en un producto lleva al usuario a una página de detalles de producto, que incluye una imagen más grande, descripción del producto, precio y un botón "Agregar al carrito".
+- Filtrado de productos: La grilla de productos permite a los usuarios filtrar productos por categoría, precio y calificación.
 
 ### Requisitos previos:
 
